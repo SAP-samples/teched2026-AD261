@@ -75,4 +75,4 @@ Support for the content in this repository is available during the actual time o
 
 ## License
 
-Copyright (c) 2026 SAP SE or an SAP affiliate company and abap-platform-ad261 contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/abap-platform-ad261).
+Copyright (c) 2026 SAP SE or an SAP affiliate company and teched2026-AD261 contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/teched2026-AD261).
